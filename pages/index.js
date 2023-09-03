@@ -207,6 +207,37 @@ export default function Home() {
 
               <div className="link-item-wrapper link-item-wrapper-full-width">
                 <a
+                  href="https://www.amazon.co.uk/Becoming-Software-Developer-2023-2024-become-ebook/dp/B0C2JN6GYD/ref=sr_1_2?keywords=how+to+become+a+software+developer&qid=1693750436&sprefix=ho+to+become+a+sof%2Caps%2C507&sr=8-2"
+                  id="NjEyNjk5Mw"
+                  className="link-button link-button-full-width w-inline-block"
+                >
+                  <div
+                    className="link-icon-float"
+                    style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
+                  >
+                    <img
+                      src="https://cdn.solo.to/user/th/645f89002c5fd4_52716918.jpg"
+                      className="link-icon-float-image"
+                    />
+                  </div>
+                  <div className="link-block-text-wrapper">
+                    <div className="link-name link-name-xs">
+                      How to become a software developer
+                    </div>
+                    <div className="link-url">
+                      https://www.amazon.co.uk/Becoming-Software-Developer-2023-2024-become-ebook/
+                    </div>
+                  </div>
+                  <div className="link-arrow-wrapper">
+                    <img
+                      src="https://cdn.solo.to/images/link-button-arrow.svg"
+                      class="link-arrows"
+                    />
+                  </div>
+                </a>
+              </div>
+              <div className="link-item-wrapper link-item-wrapper-full-width">
+                <a
                   href="https://resolvebyme.ghost.io/chat-gpt-on-news-now/"
                   id="NjEyNjk5Mw"
                   className="link-button link-button-full-width w-inline-block"
