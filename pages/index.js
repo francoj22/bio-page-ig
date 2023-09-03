@@ -12,12 +12,12 @@ export default function Home() {
       />
       <meta
         name="description"
-        content="Dublin, Ireland 🇬🇧 · 👨🏻‍💻 • Senior Software Engineer
+        content="Dublin, Ireland 🇮🇪 · 👨🏻‍💻 • Senior Software Engineer
 📸 • Content Creation / Tech"
       />
       <meta
         property="og:description"
-        content="Dublin, Ireland 🇬🇧 · 👨🏻‍💻 • Senior Software Engineer
+        content="Dublin, Ireland 🇮🇪 · 👨🏻‍💻 • Senior Software Engineer
 📸 • Content Creation / Tech"
       />
       <meta
