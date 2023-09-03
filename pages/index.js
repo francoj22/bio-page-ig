@@ -86,7 +86,7 @@ export default function Home() {
                     className="location-icon"
                   />
                   <div className="profile-location-text">
-                    Dublin, Ireland 🇬🇧
+                    Dublin, Ireland 🇮🇪
                   </div>
                 </div>
                 <p className="profile-bio">
