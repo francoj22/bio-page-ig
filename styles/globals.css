@@ -10857,6 +10857,7 @@ figcaption {
 .linkpage-cta {
   display: flex;
   align-items: center;
+  flex-direction: column;
   flex: 0 0 auto;
   transition: all 0.3s ease;
   color: #929292;
