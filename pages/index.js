@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div>
       <meta charSet="utf-8" />
-      <title>Franco | francoj22 (/asherintech) · solo.to</title>
+      <title>Franco | francoj22 (/francoj22) · solo.to</title>
       <meta
         property="og:title"
-        content="Franco | francoj22 (/asherintech) · solo.to"
+        content="Franco | francoj22 (/francoj22) · solo.to"
       />
       <meta
         name="description"
@@ -20,10 +20,7 @@ export default function Home() {
         content="Dublin, Ireland 🇮🇪 · 👨🏻‍💻 • Senior Software Engineer
 📸 • Content Creation / Tech"
       />
-      <meta
-        property="og:image"
-        content="https://cdn.solo.to/user/a/613c827f27f768_43913704.jpg"
-      />
+      <meta property="og:image" content="profileImage2.png" />
       <meta name="twitter:card" content="summary" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#3673FC" />
@@ -32,11 +29,8 @@ export default function Home() {
         rel="shortcut icon"
         type="image/x-icon"
       />
-      <link
-        href="https://cdn.solo.to/user/a/sm/613c827f27f768_43913704.jpg"
-        rel="apple-touch-icon"
-      />
-      <link href="asherintech.html" rel="canonical" />
+      <link href="#" rel="apple-touch-icon" />
+      <link href="francoj22.html" rel="canonical" />
       <link
         href="css/vendor.css%3Fid=74ce1f16fcc59f942e27e3dd269a4873.css"
         rel="stylesheet"
@@ -156,7 +150,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="https://cdn.solo.to/user/th/645f89002c5fd4_52716918.jpg"
+                      src="profileImage2.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -186,7 +180,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="https://cdn.solo.to/user/th/645f89002c5fd4_52716918.jpg"
+                      src="profileImage2.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -216,7 +210,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="https://cdn.solo.to/user/th/645f89002c5fd4_52716918.jpg"
+                      src="profileImage2.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -247,7 +241,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="https://cdn.solo.to/user/th/645f89002c5fd4_52716918.jpg"
+                      src="profileImage2.png"
                       className="link-icon-float-image"
                     />
                   </div>
