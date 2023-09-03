@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div>
       <meta charSet="utf-8" />
-      <title>Franco | francoj22 (/francoj22) · solo.to</title>
+      <title>Franco | francoj22 (/francoj22) · resolvebyme</title>
       <meta
         property="og:title"
-        content="Franco | francoj22 (/francoj22) · solo.to"
+        content="Franco | francoj22 (/francoj22) · resolvebyme"
       />
       <meta
         name="description"
@@ -24,11 +24,7 @@ export default function Home() {
       <meta name="twitter:card" content="summary" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="theme-color" content="#3673FC" />
-      <link
-        href="https://cdn.solo.to/images/favicon.png"
-        rel="shortcut icon"
-        type="image/x-icon"
-      />
+      <link href="favicon_32x32.png" rel="shortcut icon" type="image/x-icon" />
       <link href="#" rel="apple-touch-icon" />
       <link href="francoj22.html" rel="canonical" />
       <link
@@ -75,7 +71,7 @@ export default function Home() {
                 </div>
                 <div className="profile-location-box">
                   <img
-                    src="https://cdn.solo.to/images/map-pin.svg"
+                    src="map-pin.svg"
                     alt="Location"
                     className="location-icon"
                   />
