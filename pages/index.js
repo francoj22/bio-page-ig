@@ -150,7 +150,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="profileImage2.png"
+                      src="pencil-308509_640.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -180,7 +180,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="profileImage2.png"
+                      src="pencil-308509_640.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -210,7 +210,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="profileImage2.png"
+                      src="pencil-308509_640.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -241,7 +241,7 @@ export default function Home() {
                     style={{ boxShadow: "0 8px 14px -4px rgba(80,80,80,0.65)" }}
                   >
                     <img
-                      src="profileImage2.png"
+                      src="pencil-308509_640.png"
                       className="link-icon-float-image"
                     />
                   </div>
@@ -268,7 +268,8 @@ export default function Home() {
       <div className="page-footer">
         <a href="" className="linkpage-cta w-inline-block">
           <img src="146065399.png" width={500} className="footer-brand-image" />
-          Want to create your own bio page ? contact me for more
+          Want to create your own bio page ? contact me for more at{" "}
+          <spa>franco@resolvebyme.com</spa>
         </a>
       </div>
       {/* design © 2023 by  franco@resolvebyme.com */}

@@ -10862,6 +10862,7 @@ figcaption {
   transition: all 0.3s ease;
   color: #929292;
   white-space: nowrap;
+  padding-bottom: 20px;
 }
 
 .linkpage-cta:hover {
