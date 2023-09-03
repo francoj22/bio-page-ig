@@ -207,7 +207,7 @@ export default function Home() {
 
               <div className="link-item-wrapper link-item-wrapper-full-width">
                 <a
-                  href="https://www.amazon.co.uk/Becoming-Software-Developer-2023-2024-become-ebook/dp/B0C2JN6GYD/ref=sr_1_2?keywords=how+to+become+a+software+developer&qid=1693750436&sprefix=ho+to+become+a+sof%2Caps%2C507&sr=8-2"
+                  href="https://www.amazon.co.uk/dp/B0C2JN6GYD"
                   id="NjEyNjk5Mw"
                   className="link-button link-button-full-width w-inline-block"
                 >
