@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/**": { "runtime": "nodejs24.x" },
+    "pages/api/**": { "runtime": "nodejs24.x" }
+  }
+}
